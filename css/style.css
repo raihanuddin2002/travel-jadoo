@@ -53,3 +53,7 @@ body {
 /*===================
     3.category section CSS
  ==================== */
+
+.category-card {
+    border-radius: 30px !important;
+}
